@@ -28,7 +28,7 @@ public class Hotel_Task {
            us.sendKeys("Sharonrenuka");
            
            WebElement ps = driver.findElement(By.id("password"));
-           ps.sendKeys("93renu61Ka");
+           ps.sendKeys("90renu71ka");
            
            WebElement ln = driver.findElement(By.name("login"));
            ln.click();
